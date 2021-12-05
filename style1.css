@@ -292,12 +292,13 @@
 			text-shadow: 4px 4px #f2291b;
 		}
 		
-		h2 {color:grey;
-			font-size:20px;
-			padding:30px;
-			font-family:sans-serif;
+		h2 {color:white;
+			font-size:30px;
+			text-align: center;
+			padding:10px;
+			font-family:newspaper;
 			line-height:1.5;
-			
+			text-shadow: 4px 4px #000000;
 		}
 		
 		h3 {color:#456999;
